@@ -1,0 +1,49 @@
+[
+  {
+    "name": "June 2016",
+    "filename": "cm-13.0-20160630-MM2.0-i9300.zip",
+    "md5": "cf4d435e1f767593fa323e62803ddd65",
+    "size": 317902317,
+    "date": 20160630,
+    "releasedate": 1467412175000,
+    "device": "i9300",
+    "url": "https://maxmustermann20.ocloud.de/s/6hWNw48CXVqLT9M/download",
+    "patchlevel": 0,
+    "changelog": [
+      "SystemUI: add ClipboardTile",
+      "Changed Settings colors again",
+      "Settings: new animation to open subsettings",
+      "Updated sources",
+      "June security patches"
+    ]
+  },
+  {
+    "name": "May 2016/Update 2",
+    "filename": "cm-13.0-20160504u2-MM2.0-i9300.zip",
+    "md5": "acedfc1ec764234ab57127e0a55e317f",
+    "size": 170086,
+    "date": 20160504,
+    "releasedate": 1462551013000,
+    "device": "i9300",
+    "url": "http://mm20.blaucloud.de/index.php/s/Nzz4hc61M1vmjmP/download",
+    "patchlevel": 2,
+    "changelog": [
+      "Show changelog and details in OTAUpdater"
+    ]
+  },
+  {
+    "name": "May 2016",
+    "filename": "cm-13.0-20160504-MM2.0-i9300.zip",
+    "md5": "02f9fea918c69e1adbb5052476daef51",
+    "size": 280903345,
+    "date": 20160504,
+    "releasedate": 1462375481000,
+    "device": "i9300",
+    "url": "http://mm20.blaucloud.de/index.php/s/DC2yNklmIIKoaD4/download",
+    "patchlevel": 0,
+    "changelog": [
+      "Updated sources",
+      "May security patches"
+    ]
+  }
+]
