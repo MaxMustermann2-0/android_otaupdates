@@ -11,6 +11,7 @@
     "patchlevel": 0,
     "changelog": [
       "Trebuchet: add dark status bar icons option",
+      "OTAUpdater: updated OTA API to v2.1",
       "Updated sources",
       "July security patches"
     ]
