@@ -1,5 +1,19 @@
 [
   {
+    "name": "August 2016/Update 1",
+    "filename": "cm-13.0-20160811u1-MM2.0-i9300.zip",
+    "md5": "86cb235fe1afa9944b488e98ba20b998",
+    "size": 2836927,
+    "builddate": 1470934360,
+    "releasedate": 1471683904000,
+    "device": "m0",
+    "url": "https://maxmustermann20.ocloud.de/s/suWrzLSSYhKf9Tc/download",
+    "patchlevel": 1,
+    "changelog": [
+      "Recents: clear search on collapse"
+    ]
+  },
+  {
     "name": "August 2016",
     "filename": "cm-13.0-20160811-MM2.0-i9300.zip",
     "md5": "ce21cd30d997e0fe35f280ee5ec98c7b",
