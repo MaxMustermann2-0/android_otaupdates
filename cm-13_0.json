@@ -1,5 +1,19 @@
 [
   {
+    "name": "16.8.2",
+    "filename": "cm-13.0-20160811u2-MM2.0-i9300.zip",
+    "md5": "ea935c357e56a0851ce41750fadac68e",
+    "size": 2851783,
+    "builddate": 1470934360,
+    "releasedate": 1471845001000,
+    "device": "m0",
+    "url": "https://maxmustermann20.ocloud.de/s/URWh2qqib9sMsQM/download",
+    "patchlevel": 2,
+    "changelog": [
+      "Fix SystemUI themes"
+    ]
+  },
+  {
     "name": "16.8.1",
     "filename": "cm-13.0-20160811u1-MM2.0-i9300.zip",
     "md5": "86cb235fe1afa9944b488e98ba20b998",
