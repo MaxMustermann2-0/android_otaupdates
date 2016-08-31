@@ -1,19 +1,5 @@
 [
   {
-    "name": "16.8.3",
-    "filename": "cm-13.0-20160811u3-MM2.0-i9300.zip",
-    "md5": "f685babcb5d91cae02d7fb1a2bf76e2f",
-    "size": 2890774,
-    "builddate": 1470934360,
-    "releasedate": 1472634378000,
-    "device": "m0",
-    "url": "https://maxmustermann20.ocloud.de/s/j305pHNL47ni8vI/download",
-    "patchlevel": 3,
-    "changelog": [
-      "Fix camera connection issues (experimental!)"
-    ]
-  },
-  {
     "name": "16.8.2",
     "filename": "cm-13.0-20160811u2-MM2.0-i9300.zip",
     "md5": "ea935c357e56a0851ce41750fadac68e",
