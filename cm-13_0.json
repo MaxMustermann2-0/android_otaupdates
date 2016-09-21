@@ -1,18 +1,4 @@
 [
-    {
-    "name": "16.8.3",
-    "filename": "cm-13.0-20160811u3-MM2.0-i9300.zip.zip",
-    "md5": "a9d479aa5a854b4b3824b3bb790c94f8",
-    "size": 2909101,
-    "builddate": 1470934360,
-    "releasedate": 1474485374000,
-    "device": "m0",
-    "url": "https://maxmustermann20.ocloud.de/s/NFpa5Z4pqHKLKAk/download",
-    "patchlevel": 3,
-    "changelog": [
-      "OTAUpdater: advanced settings"
-    ]
-  },
   {
     "name": "16.8.2",
     "filename": "cm-13.0-20160811u2-MM2.0-i9300.zip",
