@@ -1,5 +1,20 @@
 [
-    {
+  {
+    "name": "16.9",
+    "filename": "cm-13.0-20160922-MM2.0-i9300.zip",
+    "md5": "b31bb69b3432a0166aa0c89c3433a2c0",
+    "size": 337417753,
+    "builddate": 1470934360,
+    "releasedate": 1474564901000,
+    "device": "m0",
+    "url": "",
+    "patchlevel": 0,
+    "changelog": [
+      "Updated sources",
+      "September security patches"
+    ]
+  },
+  {
     "name": "16.8.3",
     "filename": "cm-13.0-20160811u3-MM2.0-i9300.zip",
     "md5": "cd627f51ad58885e8275ee5b73130422",
